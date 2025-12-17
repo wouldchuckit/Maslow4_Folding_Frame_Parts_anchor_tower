@@ -7,8 +7,8 @@
   "ioValues": [
     {
       "name": "WoodThick",
-      "ioValue": 10,
-      "currentEquation": "10"
+      "ioValue": 19.8,
+      "currentEquation": "19.8"
     },
     {
       "name": "BeamHeight",
@@ -76,7 +76,7 @@
         },
         {
           "name": "x",
-          "ioValue": 10
+          "ioValue": 19.8
         }
       ],
       "currentEquation": "y - 4*x"
@@ -156,7 +156,7 @@
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 163
+          "ioValue": 123.8
         }
       ],
       "currentEquation": "x/2"
@@ -173,7 +173,7 @@
         },
         {
           "name": "yDist",
-          "ioValue": 81.5
+          "ioValue": 61.9
         },
         {
           "name": "zDist",
@@ -190,7 +190,7 @@
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 81.5
+          "ioValue": 61.9
         }
       ],
       "currentEquation": "-x"
@@ -221,7 +221,7 @@
         },
         {
           "name": "yDist",
-          "ioValue": -81.5
+          "ioValue": -61.9
         },
         {
           "name": "zDist",
@@ -469,7 +469,7 @@
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 10
+          "ioValue": 19.8
         }
       ],
       "currentEquation": "3*x"
@@ -496,7 +496,7 @@
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 30
+          "ioValue": 59.400000000000006
         },
         {
           "name": "y length",
@@ -558,18 +558,18 @@
       "x": 0.10032362459546927,
       "y": 0.2586605080831409,
       "uniqueID": "id-1102",
-      "name": "x + 4*y",
+      "name": "x + 5*y",
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 30
+          "ioValue": 59.400000000000006
         },
         {
           "name": "y",
-          "ioValue": 10
+          "ioValue": 19.8
         }
       ],
-      "currentEquation": "x + 4*y"
+      "currentEquation": "x + 5*y"
     },
     {
       "atomType": "Equation",
@@ -593,7 +593,7 @@
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 70
+          "ioValue": 158.4
         },
         {
           "name": "y length",
@@ -791,7 +791,7 @@
       "ioValues": [
         {
           "name": "height",
-          "ioValue": 10
+          "ioValue": 19.8
         }
       ]
     }
