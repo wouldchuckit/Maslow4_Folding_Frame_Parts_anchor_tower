@@ -7,8 +7,7 @@
   "ioValues": [
     {
       "name": "WoodThick",
-      "ioValue": 19.8,
-      "currentEquation": "19.8"
+      "ioValue": 19.8
     },
     {
       "name": "BeamHeight",
@@ -532,8 +531,7 @@
         },
         {
           "name": "y-axis degrees",
-          "ioValue": 90,
-          "currentEquation": "90"
+          "ioValue": 90
         },
         {
           "name": "z-axis degrees",
