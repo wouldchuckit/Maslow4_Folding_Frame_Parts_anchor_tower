@@ -6,5 +6,7 @@
 
 
 
- 
+ Sliding anchor block for a foldable frame Could be used as an anchor on it's own.  Double sided just because I like symmetry and wanted it to feel sturdy on both sides when moving it.  Pin holes across it are for the stagged array in the anchor tower. each one should correspond a change of 5mm
+
+
 
